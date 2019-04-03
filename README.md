@@ -1,4 +1,5 @@
 # AJARA
+![logo](ajara_logo.png)
 # Project Summary
 * One Sentence Description
 * Project Overview 
